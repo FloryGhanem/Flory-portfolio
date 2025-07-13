@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portfolio | Flory Ghanem</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f4f4f9;
+      color: #333;
+      line-height: 1.6;
+    }
+
+    header {
+      background-color: #4a90e2;
+      color: white;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+
+    header p {
+      font-size: 1.2rem;
+    }
+
+    section {
+      padding: 2rem 5%;
+      max-width: 1000px;
+      margin: auto;
+    }
+
+    h2 {
+      border-bottom: 2px solid #4a90e2;
+      padding-bottom: 0.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .section-content {
+      margin-bottom: 2rem;
+    }
+
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    ul li::before {
+      content: "• ";
+      color: #4a90e2;
+    }
+
+    .skills span {
+      display: inline-block;
+      background-color: #4a90e2;
+      color: white;
+      padding: 0.3rem 0.7rem;
+      margin: 0.2rem;
+      border-radius: 20px;
+      font-size: 0.9rem;
+    }
+
+    footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Flory Ghanem</h1>
+  <p>Laboratory Technician - Analytical Chemistry</p>
+  <p>📍 Créteil, France | 📞 06 16 73 34 69 | 📧 ghanem.flory.btsmdc@gmail.com</p>
+</header>
+
+<section>
+  <h2>About Me</h2>
+  <div class="section-content">
+    <p>
+      H
